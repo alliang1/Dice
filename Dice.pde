@@ -36,7 +36,7 @@ class Die //models one single dice cube
     myX = x;
     myY = y;
     dicenum = (int)(Math.random()*6)+1;
-    System.out.println(dicenum);
+    //System.out.println(dicenum);
 
 
 
